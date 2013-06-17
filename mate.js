@@ -7,19 +7,18 @@ var Mate = {
 	},
 
 	sub : function( a, b ){
-		//do something
 
 		return a - b;
 	},
 
 	mul : function( a, b ){
-		//do something
 
 		return a * b;
 	},
 
 	div : function( a, b ){
-		//do something
+
+		if(b === 0 ) return 'error';
 
 		return a / b;
 	}
