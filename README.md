@@ -44,7 +44,7 @@ result = Mate.div(2,2); // result = 1
 Usando o mocha você tem a suite de testes. Para conferir os testes acesse test.html.
 
 
-![Testes](images/testes.png "Testes")
+![Testes](images/testes.PNG "Testes")
 
 
 ```javascript
